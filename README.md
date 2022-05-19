@@ -1,2 +1,2 @@
 # python-darslarim
-pynhonni o'rganishni boshladim
+pythonni o'rganishni boshladim
